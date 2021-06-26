@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using Dapper;
-using Dapper.Contrib;
 using Dapper.Contrib.Extensions;
 using DapperMicroORM.Model;
 using Microsoft.Extensions.Configuration;
